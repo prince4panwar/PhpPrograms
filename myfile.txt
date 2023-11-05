@@ -1,0 +1,2 @@
+Hello! here  i am using fopen function with 'r' mode 
+which is used to read the content of the file.
